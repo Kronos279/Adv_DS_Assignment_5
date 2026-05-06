@@ -1,0 +1,43 @@
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# IntelliJ specific files you *might* keep (optional)
+# Uncomment if you want to share code style or inspection profiles
+# .idea/codeStyles/
+# .idea/inspectionProfiles/
+
+# Build directories
+/target/
+/out/
+/build/
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Environment / local config
+.env
+*.local
+
+# Compiled class files
+*.class
+
+# Package files
+*.jar
+*.war
+*.ear
+
+# Maven
+/.mvn/wrapper/maven-wrapper.jar
+
+# Gradle
+.gradle/
+!gradle/wrapper/gradle-wrapper.jar
+
+.project
+.classpath
+.settings/
